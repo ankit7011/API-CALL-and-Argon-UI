@@ -48,7 +48,7 @@ const Admin = (props) => {
           <Route
             path={prop.layout + prop.path}
             // component={prop.component}
-            component={() => (<prop.component  myprop={data} />)}
+            component={prop.component}
             key={key}
           />
         );
