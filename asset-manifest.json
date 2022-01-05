@@ -1,0 +1,33 @@
+{
+  "files": {
+    "main.css": "/ankit7011-apicall/static/css/main.7477e1c8.chunk.css",
+    "main.js": "/ankit7011-apicall/static/js/main.f4d44c24.chunk.js",
+    "main.js.map": "/ankit7011-apicall/static/js/main.f4d44c24.chunk.js.map",
+    "runtime-main.js": "/ankit7011-apicall/static/js/runtime-main.0138e90c.js",
+    "runtime-main.js.map": "/ankit7011-apicall/static/js/runtime-main.0138e90c.js.map",
+    "static/css/2.cc63e55c.chunk.css": "/ankit7011-apicall/static/css/2.cc63e55c.chunk.css",
+    "static/js/2.c1574df3.chunk.js": "/ankit7011-apicall/static/js/2.c1574df3.chunk.js",
+    "static/js/2.c1574df3.chunk.js.map": "/ankit7011-apicall/static/js/2.c1574df3.chunk.js.map",
+    "index.html": "/ankit7011-apicall/index.html",
+    "static/css/2.cc63e55c.chunk.css.map": "/ankit7011-apicall/static/css/2.cc63e55c.chunk.css.map",
+    "static/css/main.7477e1c8.chunk.css.map": "/ankit7011-apicall/static/css/main.7477e1c8.chunk.css.map",
+    "static/js/2.c1574df3.chunk.js.LICENSE.txt": "/ankit7011-apicall/static/js/2.c1574df3.chunk.js.LICENSE.txt",
+    "static/js/main.f4d44c24.chunk.js.LICENSE.txt": "/ankit7011-apicall/static/js/main.f4d44c24.chunk.js.LICENSE.txt",
+    "static/media/argon-react-white.png": "/ankit7011-apicall/static/media/argon-react-white.e4dd3b41.png",
+    "static/media/argon-react.png": "/ankit7011-apicall/static/media/argon-react.128d71d3.png",
+    "static/media/all.min.css": "/ankit7011-apicall/static/media/fa-solid-900.efbd5d20.eot",
+    "static/media/github.svg": "/ankit7011-apicall/static/media/github.f7165d3e.svg",
+    "static/media/google.svg": "/ankit7011-apicall/static/media/google.952443d7.svg",
+    "static/media/nucleo.css": "/ankit7011-apicall/static/media/nucleo-icons.d6a66724.ttf",
+    "static/media/profile-cover.jpg": "/ankit7011-apicall/static/media/profile-cover.97899245.jpg",
+    "static/media/team-1-800x800.jpg": "/ankit7011-apicall/static/media/team-1-800x800.fa5a7ac2.jpg",
+    "static/media/team-4-800x800.jpg": "/ankit7011-apicall/static/media/team-4-800x800.99c612eb.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0138e90c.js",
+    "static/css/2.cc63e55c.chunk.css",
+    "static/js/2.c1574df3.chunk.js",
+    "static/css/main.7477e1c8.chunk.css",
+    "static/js/main.f4d44c24.chunk.js"
+  ]
+}
